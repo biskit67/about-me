@@ -1,4 +1,4 @@
-Kevin Sobiski
+KEVIN SOBISKI
 MC Messaging Service - Inbound
 MTS
 Animal:cat
